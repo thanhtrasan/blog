@@ -7,7 +7,7 @@ tags: [mvc]
 
 Nếu bạn là một lập trình viên, nhất là lập trình web, sẽ rất khó để bạn có thể xin được việc nếu không biết mô hình MVC. Trong post này mình sẽ trình bày đến các bạn mô hình MVC là gì theo cách hiểu của mình qua một vài dự án sử dụng MVC?
 
-# MVC là gì?
+# Mô hình MVC là gì?
 
 MVC là viết tắt của Model – View – Controller. Là một kiến trúc phần mềm hay mô hình thiết kế được sử dụng trong kỹ thuật phần mềm. Nói cho dễ hiểu, nó là mô hình phân bố source code thành 3 phần, mỗi thành phần có một nhiệm vụ riêng biệt và độc lập với các thành phần khác.
 
