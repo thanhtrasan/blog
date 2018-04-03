@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: Mô hình MVC là gì?
+title: MVC là gì?
 date: 2015-01-04 14:58:21.000000000 -05:00
 tags: [mvc]
 ---
